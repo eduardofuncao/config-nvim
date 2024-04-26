@@ -8,4 +8,5 @@ return {
 		-- Find the current file in NERDTree
 		vim.api.nvim_set_keymap('n', '<C-f>', ':NERDTreeFind<CR>', {noremap = true, silent = true})
 	end,
+    dependencies = 'ryanoasis/vim-devicons'
 } 

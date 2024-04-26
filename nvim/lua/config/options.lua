@@ -7,6 +7,10 @@ vim.g.mapleader = " " -- Make sure to set `mapleader` before lazy so your mappin
 vim.g.maplocalleader = "\\" -- Same for `maplocalleader`
 
 
+vim.g.webdevicons_conceal_nerdtree_brackets = 0
+
+
+
 -- General
 vim.opt.clipboard = 'unnamedplus'
 -- vim.opt.mouse = 'a'
@@ -29,6 +33,7 @@ vim.opt.incsearch = true
 vim.opt.ignorecase = true
 vim.opt.smartcase = false
 
+vim.opt.guifont = "JetBrainsMono Nerd Font:h12"
 
 
 
