@@ -1,4 +1,3 @@
 # config-nvim
-# config-nvim
-# config-nvim
-# config-nvim
+
+Basic configuration settings for nvim, using lazy.nvim
