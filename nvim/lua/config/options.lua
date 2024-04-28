@@ -9,6 +9,7 @@ vim.g.maplocalleader = "\\" -- Same for `maplocalleader`
 
 vim.g.webdevicons_conceal_nerdtree_brackets = 0
 
+vim.opt.showmode = false
 
 
 -- General
@@ -33,7 +34,7 @@ vim.opt.incsearch = true
 vim.opt.ignorecase = true
 vim.opt.smartcase = false
 
-vim.opt.guifont = "JetBrainsMono Nerd Font:h12"
+-- vim.opt.guifont = "JetBrainsMono Nerd Font:h12"
 
 
 
